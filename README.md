@@ -29,3 +29,5 @@
   [unittest](https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20unittest.md)
 
 ### Go
+
+2019-01-03 [Linux 下 Go 环境搭建以及 Gin 安装](https://github.com/yongxinz/tech-blog/blob/master/Linux%20%E4%B8%8B%20Go%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%20Gin%20%E5%AE%89%E8%A3%85.md)

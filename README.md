@@ -30,7 +30,7 @@
 
 ### Go
 
-2019-01-11 [Go 包管理工具 govendor 使用指南][22]
+2019-01-11 [Go 包管理工具 govendor 使用指南][22]\<br\>
 2019-01-03 [Linux 下 Go 环境搭建以及 Gin 安装][23]
 
 [1]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20enum.md

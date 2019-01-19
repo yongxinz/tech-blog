@@ -4,6 +4,10 @@
 
 2019-01-03 一些 Python 模块的整理（不断更新中...），如下：
 
+- 文本
+
+  [string](https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20string.md)
+
 - 数据结构
 
   [enum][1]   [collections][2]   [array][3]   [heapq][4]   [bisect][5] [queue][6]   [struct][7] [copy][8]

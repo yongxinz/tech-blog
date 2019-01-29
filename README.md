@@ -2,6 +2,8 @@
 
 ### Python
 
+2019-01-29 [Python 函数式编程](https://github.com/yongxinz/tech-blog/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
+
 2019-01-03 一些 Python 模块的整理（不断更新中...），如下：
 
 - 文本

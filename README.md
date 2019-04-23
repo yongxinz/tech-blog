@@ -56,7 +56,7 @@
 
 ### Kafka
 
-2019-04-23 [Kafka 常用命令总结]([https://github.com/yongxinz/tech-blog/blob/master/Kafka%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93.md])
+2019-04-23 [Kafka 常用命令总结](<https://github.com/yongxinz/tech-blog/blob/master/Kafka%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93.md>)
 
 ### Linux
 

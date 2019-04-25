@@ -56,7 +56,11 @@
 
 ### Kafka
 
-2019-04-23 [Kafka 常用命令总结](<https://github.com/yongxinz/tech-blog/blob/master/Kafka%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93.md>)
+2019-04-25 [Python 操作 Kafka，生产者和消费者代码 Demo](<https://github.com/yongxinz/tech-blog/blob/master/kafka/Python%20%E6%93%8D%E4%BD%9C%20Kafka%EF%BC%8C%E7%94%9F%E4%BA%A7%E8%80%85%E5%92%8C%E6%B6%88%E8%B4%B9%E8%80%85%E4%BB%A3%E7%A0%81%20Demo.md>)
+
+2019-04-25 [Kafka server.properties 详细配置总结](<https://github.com/yongxinz/tech-blog/blob/master/kafka/Kafka%20server.properties%20%E8%AF%A6%E7%BB%86%E9%85%8D%E7%BD%AE%E6%80%BB%E7%BB%93.md>)
+
+2019-04-23 [Kafka 常用命令总结](<https://github.com/yongxinz/tech-blog/blob/master/kafka/Kafka%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%80%BB%E7%BB%93.md>)
 
 ### Linux
 

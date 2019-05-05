@@ -2,6 +2,8 @@
 
 ### Python
 
+2019-05-05 [Python 实现数据结构中的单链表，循环单链表，双链表](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD%E7%9A%84%E5%8D%95%E9%93%BE%E8%A1%A8%EF%BC%8C%E5%BE%AA%E7%8E%AF%E5%8D%95%E9%93%BE%E8%A1%A8%EF%BC%8C%E5%8F%8C%E9%93%BE%E8%A1%A8.md>)
+
 2019-01-31 [Flask-SocketIO 简单使用指南](https://github.com/yongxinz/tech-blog/blob/master/Flask-SocketIO%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 
 2019-01-29 [Python 函数式编程](https://github.com/yongxinz/tech-blog/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)

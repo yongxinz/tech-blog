@@ -2,6 +2,8 @@
 
 ### Python
 
+2019-05-09 [Python 实现二叉树前序，中序，后序，层次遍历](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%AE%9E%E7%8E%B0%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%BA%8F%EF%BC%8C%E5%90%8E%E5%BA%8F%EF%BC%8C%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md>)
+
 2019-05-07 [Python 实现数据结构中的的栈，队列](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD%E7%9A%84%E7%9A%84%E6%A0%88%EF%BC%8C%E9%98%9F%E5%88%97.md>)
 
 2019-05-05 [Python 实现数据结构中的单链表，循环单链表，双链表](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%AE%9E%E7%8E%B0%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%AD%E7%9A%84%E5%8D%95%E9%93%BE%E8%A1%A8%EF%BC%8C%E5%BE%AA%E7%8E%AF%E5%8D%95%E9%93%BE%E8%A1%A8%EF%BC%8C%E5%8F%8C%E9%93%BE%E8%A1%A8.md>)

@@ -2,6 +2,10 @@
 
 ### Python
 
+2019-07-21 [Python Elasticsearch DSL 查询、过滤、聚合操作实例](<https://github.com/yongxinz/tech-blog/blob/master/Python%20Elasticsearch%20DSL%20%E6%9F%A5%E8%AF%A2%E3%80%81%E8%BF%87%E6%BB%A4%E3%80%81%E8%81%9A%E5%90%88%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B.md>)
+
+2019-07-21 [哈夫曼树和哈夫曼编码](<https://github.com/yongxinz/tech-blog/blob/master/%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%92%8C%E5%93%88%E5%A4%AB%E6%9B%BC%E7%BC%96%E7%A0%81.md>)
+
 2019-05-19 [Python 实现七大排序算法](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%AE%9E%E7%8E%B0%E4%B8%83%E5%A4%A7%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md>)
 
 2019-05-09 [Python 实现二叉树前序，中序，后序，层次遍历](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%AE%9E%E7%8E%B0%E4%BA%8C%E5%8F%89%E6%A0%91%E5%89%8D%E5%BA%8F%EF%BC%8C%E4%B8%AD%E5%BA%8F%EF%BC%8C%E5%90%8E%E5%BA%8F%EF%BC%8C%E5%B1%82%E6%AC%A1%E9%81%8D%E5%8E%86.md>)

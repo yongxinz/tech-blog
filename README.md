@@ -68,7 +68,7 @@
 
 ### ElasticSearch
 
-2019-08-01 [转载 | 看完这篇还不会 Elasticsearch，我跪搓衣板](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650238166&idx=1&sn=f93737fbf547b4cbf5249ad6109d3496&chksm=8f5a068ab82d8f9ce9062aa43568c14cf2e167b04827cbfdfe3633862c0fc039a59d78911202&scene=0&xtrack=1#rd)
+2019-08-01 [链接 | 看完这篇还不会 Elasticsearch，我跪搓衣板](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650238166&idx=1&sn=f93737fbf547b4cbf5249ad6109d3496&chksm=8f5a068ab82d8f9ce9062aa43568c14cf2e167b04827cbfdfe3633862c0fc039a59d78911202&scene=0&xtrack=1#rd)
 
 ### Kafka
 
@@ -86,7 +86,11 @@
 
 2019-04-14 [Iptables 常用命令汇总](<https://github.com/yongxinz/tech-blog/blob/master/Iptables%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB.md>)
 
-2019-04-01 [awk 简单使用指南](<https://github.com/yongxinz/tech-blog/blob/master/awk%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md>)
+2019-04-01 [awk 简单使用指南](<https://github.com/yongxinz/tech-blog/blob/master/awk%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md>) 
+
+### 架构
+
+2019-08-07 [链接 | 我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
 
 [1]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20enum.md
 [2]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20collections.md

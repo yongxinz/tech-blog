@@ -62,6 +62,14 @@
 
  2019-01-03 [Linux 下 Go 环境搭建以及 Gin 安装][23]
 
+### MySQL
+
+2019-08-09 [链接 | 一次难得的分库分表实践](https://crossoverjie.top/2019/07/24/framework-design/sharding-db-03/)
+
+2019-08-09 [链接 | 分表后需要注意的二三事](https://crossoverjie.top/2019/06/13/framework-design/sharding-db-02/)
+
+2019-08-09 [链接 | 一次分表踩坑实践的探讨](https://crossoverjie.top/2019/04/16/framework-design/sharding-db/)
+
 ### Redis
 
 2019-04-14 [使用 Redis 有序集合实现 IP 归属地查询](<https://github.com/yongxinz/tech-blog/blob/master/%E4%BD%BF%E7%94%A8%20Redis%20%E6%9C%89%E5%BA%8F%E9%9B%86%E5%90%88%E5%AE%9E%E7%8E%B0%20IP%20%E5%BD%92%E5%B1%9E%E5%9C%B0%E6%9F%A5%E8%AF%A2.md>)

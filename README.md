@@ -98,7 +98,13 @@
 
 ### 架构
 
+2019-08-16 [链接 | 换个视角看中台的对与错](https://mp.weixin.qq.com/s/HSFltXtFbmg1vKANqdaD-A)
+
 2019-08-07 [链接 | 我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
+
+### 面试
+
+2019-08-16 [后端面试题汇总](https://github.com/yongxinz/back-end-interview)
 
 [1]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20enum.md
 [2]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20collections.md

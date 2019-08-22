@@ -2,6 +2,8 @@
 
 ### Python
 
+2019-08-22 [链接 | Python中的单例模式的几种实现方式的及优化](https://www.cnblogs.com/huchong/p/8244279.html)
+
 2019-07-21 [Python Elasticsearch DSL 查询、过滤、聚合操作实例](<https://github.com/yongxinz/tech-blog/blob/master/Python%20Elasticsearch%20DSL%20%E6%9F%A5%E8%AF%A2%E3%80%81%E8%BF%87%E6%BB%A4%E3%80%81%E8%81%9A%E5%90%88%E6%93%8D%E4%BD%9C%E5%AE%9E%E4%BE%8B.md>)
 
 2019-07-21 [哈夫曼树和哈夫曼编码](<https://github.com/yongxinz/tech-blog/blob/master/%E5%93%88%E5%A4%AB%E6%9B%BC%E6%A0%91%E5%92%8C%E5%93%88%E5%A4%AB%E6%9B%BC%E7%BC%96%E7%A0%81.md>)
@@ -101,6 +103,10 @@
 2019-08-16 [链接 | 换个视角看中台的对与错](https://mp.weixin.qq.com/s/HSFltXtFbmg1vKANqdaD-A)
 
 2019-08-07 [链接 | 我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
+
+### 网络
+
+2019-08-22 [简述TCP和UDP的区别以及优缺点](https://github.com/yongxinz/tech-blog/blob/master/TCP和UDP的一些优缺点和区别.md)
 
 ### 面试
 

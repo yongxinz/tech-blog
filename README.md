@@ -94,6 +94,8 @@
 
 ### Linux
 
+2019-11-07 [rsync + inotify 实现文件实时双向自动同步](https://github.com/yongxinz/tech-blog/blob/master/rsync%20%2B%20inotify%20%E5%AE%9E%E7%8E%B0%E6%96%87%E4%BB%B6%E5%AE%9E%E6%97%B6%E5%8F%8C%E5%90%91%E8%87%AA%E5%8A%A8%E5%90%8C%E6%AD%A5.md)
+
 2019-04-14 [Iptables 常用命令汇总](<https://github.com/yongxinz/tech-blog/blob/master/Iptables%20%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E6%B1%87%E6%80%BB.md>)
 
 2019-04-01 [awk 简单使用指南](<https://github.com/yongxinz/tech-blog/blob/master/awk%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md>) 

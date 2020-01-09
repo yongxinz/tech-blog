@@ -2,7 +2,7 @@
 
 欢迎关注我的微信公众号 AlwaysBeta，更多精彩内容等你来。
 
-![betasite](https://github.com/yongxinz/tech-blog/blob/master/qrcode_for_gh_4cdbc5e3f3f4_258.jpg)
+![betasite](qrcode_for_gh_4cdbc5e3f3f4_258.jpg)
 
 ### Python
 

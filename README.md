@@ -1,5 +1,9 @@
 这里是我写的一些技术文章，如果能对你有一些帮助，那就太好了。
 
+欢迎关注我的微信公众号 AlwaysBeta，更多精彩内容等你来。
+
+![betasite](https://github.com/yongxinz/tech-blog/blob/master/qrcode_for_gh_4cdbc5e3f3f4_258.jpg)
+
 ### Python
 
 2019-08-22 [链接 | Python中的单例模式的几种实现方式的及优化](https://www.cnblogs.com/huchong/p/8244279.html)

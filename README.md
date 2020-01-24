@@ -2,7 +2,7 @@
 
 欢迎关注我的微信公众号 AlwaysBeta，更多精彩内容等你来。
 
-![](http://ww1.sinaimg.cn/large/0061a0TTgy1gaqr087j9xj3076076wex.jpg)
+![](https://ww1.sinaimg.cn/large/0061a0TTgy1gaqr087j9xj3076076wex.jpg)
 
 ### Python
 

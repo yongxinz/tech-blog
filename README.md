@@ -80,6 +80,8 @@
 
 ### RabbitMQ
 
+2020-03-30 [Mac 环境下 RabbitMQ 的安装](<https://github.com/yongxinz/tech-blog/blob/master/rabbitmq/Mac%20%E7%8E%AF%E5%A2%83%E4%B8%8B%20RabbitMQ%20%E7%9A%84%E5%AE%89%E8%A3%85.md>)
+
 ### Redis
 
 2019-04-14 [使用 Redis 有序集合实现 IP 归属地查询](<https://github.com/yongxinz/tech-blog/blob/master/%E4%BD%BF%E7%94%A8%20Redis%20%E6%9C%89%E5%BA%8F%E9%9B%86%E5%90%88%E5%AE%9E%E7%8E%B0%20IP%20%E5%BD%92%E5%B1%9E%E5%9C%B0%E6%9F%A5%E8%AF%A2.md>)

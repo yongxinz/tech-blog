@@ -1,4 +1,4 @@
-上一篇介绍了在 Mac 环境下，RabbitMQ 的安装，这篇来详细介绍一下 RabbitMQ 的六种工作模式。
+上一篇介绍了在 [Mac 环境下，RabbitMQ 的安装]([<https://github.com/yongxinz/tech-blog/blob/master/rabbitmq/Mac%20%E7%8E%AF%E5%A2%83%E4%B8%8B%20RabbitMQ%20%E7%9A%84%E5%AE%89%E8%A3%85.md>])，这篇来详细介绍一下 RabbitMQ 的六种工作模式。
 
 其实，这篇文章中的大部分内容都可以从 RabbitMQ 官网得到，包括每种工作模式的说明，以及多种语言的代码实例。
 
@@ -436,6 +436,12 @@ channel.start_consuming()
 如果有一些概念不是很懂，把代码运行一下也许就都明白了，动手是十分重要的。文中源码都是可以直接运行的，并且会上传到 GitHub 上，文末会有链接。
 
 以上。
+
+
+
+**源码链接：**
+
+https://github.com/yongxinz/tech-blog/tree/master/rabbitmq/src
 
 
 

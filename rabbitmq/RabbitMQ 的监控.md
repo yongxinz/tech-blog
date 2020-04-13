@@ -15,7 +15,7 @@
 
 ## Management UI
 
-![management-ui.png](https://ww1.sinaimg.cn/large/0061a0TTly1gdqzj5nxxqj31400lydin.jpg)
+![management-ui.png](http://ww1.sinaimg.cn/large/0061a0TTly1gdqzj5nxxqj31400lydin.jpg)
 
 RabbitMQ 给我们提供了丰富的 Web 管理功能，通过页面，我们能看到 RabbitMQ 的整体运行状况，交换机和队列的状态等，还可以进行人员管理和权限配置，相当全面。
 

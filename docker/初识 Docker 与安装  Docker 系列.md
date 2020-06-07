@@ -20,13 +20,13 @@ Docker 涉及到的概念有这么几个：镜像，容器，仓库，容器卷�
 
 下面来看看 Docker 和传统虚拟化方式的不同之处：
 
-![](http://ww1.sinaimg.cn/large/0061a0TTly1gfjk4102b4j30yh0ljwis.jpg)
+![](https://ww1.sinaimg.cn/large/0061a0TTly1gfjk4102b4j30yh0ljwis.jpg)
 
 可见容器是在操作系统层面上实现虚拟化，直接复用本地主机的操作系统，而传统方式则是在硬件层面实现。
 
 Docker 安装也非常简单，直接到 [Docker 官网](https://docs.docker.com/get-docker/)，不管是 Mac，Windows 还是 Linux，要么是有安装包，要么就是有详细的教程，按着一步一步来就没有问题。
 
-![](http://ww1.sinaimg.cn/large/0061a0TTly1gfjk4z7dfzj30mz0feju5.jpg)
+![](https://ww1.sinaimg.cn/large/0061a0TTly1gfjk4z7dfzj30mz0feju5.jpg)
 
 其实啊，在网上看再多的博客，也包括我这篇，都不如直接看官方文档，既实时，又权威。
 

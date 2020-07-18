@@ -66,6 +66,8 @@
 
 ### Django
 
+2020-07-18 [使用 Docker 部署 Django + MySQL 8 开发环境](<https://github.com/yongxinz/tech-blog/blob/master/docker/使用 Docker 部署 Django %2B MySQL 8 开发环境.md>)
+
 2020-07-15 [因为 Django ORM update，我今天差点「从删库到跑路」](<https://github.com/yongxinz/tech-blog/blob/master/django/因为 Django ORM update，我今天差点「从删库到跑路」.md>)
 
 2020-05-18 [解决 Django 多进程下，logging 记录日志错乱问题](<https://github.com/yongxinz/tech-blog/blob/master/django/%E8%A7%A3%E5%86%B3%20Django%20%E5%A4%9A%E8%BF%9B%E7%A8%8B%E4%B8%8B%EF%BC%8Clogging%20%E8%AE%B0%E5%BD%95%E6%97%A5%E5%BF%97%E6%B7%B7%E4%B9%B1%E9%97%AE%E9%A2%98.md>)
@@ -73,6 +75,8 @@
 2020-04-20 [Django 中如何优雅的记录日志](<https://github.com/yongxinz/tech-blog/blob/master/django/Django%20%E4%B8%AD%E5%A6%82%E4%BD%95%E4%BC%98%E9%9B%85%E7%9A%84%E8%AE%B0%E5%BD%95%E6%97%A5%E5%BF%97.md>)
 
 ### Docker
+
+2020-07-18 [使用 Docker 部署 Django + MySQL 8 开发环境](<https://github.com/yongxinz/tech-blog/blob/master/docker/使用 Docker 部署 Django %2B MySQL 8 开发环境.md>)
 
 2020-07-11 [使用 Dockerfile 创建镜像 | Docker 系列](<https://github.com/yongxinz/tech-blog/blob/master/docker/使用 Dockerfile 创建镜像  Docker 系列.md>)
 

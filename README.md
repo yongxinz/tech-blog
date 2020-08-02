@@ -6,6 +6,8 @@
 
 ### Python
 
+2020-08-02 [Python 多进程之间共享变量](<https://github.com/yongxinz/tech-blog/blob/master/python/Python 多进程之间共享变量.md>)
+
 2020-02-17 [Python 开发编码规范](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%BC%80%E5%8F%91%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md>)
 
 2019-08-22 [链接 | Python中的单例模式的几种实现方式的及优化](https://www.cnblogs.com/huchong/p/8244279.html)

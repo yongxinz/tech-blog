@@ -116,9 +116,9 @@
 
 2019-04-14 [使用 Redis 有序集合实现 IP 归属地查询](<https://github.com/yongxinz/tech-blog/blob/master/%E4%BD%BF%E7%94%A8%20Redis%20%E6%9C%89%E5%BA%8F%E9%9B%86%E5%90%88%E5%AE%9E%E7%8E%B0%20IP%20%E5%BD%92%E5%B1%9E%E5%9C%B0%E6%9F%A5%E8%AF%A2.md>)
 
-### ElasticSearch
+### Elasticsearch
 
-2020-08-22 [一个实用的开源项目，可以快速将 Elasticsearch 数据导出到 csv]([<https://github.com/yongxinz/tech-blog/blob/master/一个实用的开源项目，可以快速将 Elasticsearch 数据导出到 csv.md>)
+2020-08-22 [一个实用的开源项目，可以快速将 Elasticsearch 数据导出到 csv](<https://github.com/yongxinz/tech-blog/blob/master/一个实用的开源项目，可以快速将 Elasticsearch 数据导出到 csv.md>)
 
 2020-04-29 [Filebeat + Kafka + Elasticsearch + Kibana 实现日志收集与管理](<https://github.com/yongxinz/tech-blog/blob/master/Filebeat%20%2B%20Kafka%20%2B%20Elasticsearch%20%2B%20Kibana%20%E5%AE%9E%E7%8E%B0%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E4%B8%8E%E7%AE%A1%E7%90%86.md>)
 

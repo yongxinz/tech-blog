@@ -68,6 +68,8 @@
 
 ### Django
 
+2020-09-23 [Python 中 \x00 和空字符串的区别，以及在 Django 中的坑](https://github.com/yongxinz/tech-blog/blob/master/django/Python%20%E4%B8%AD%20x00%20%E5%92%8C%E7%A9%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%8C%BA%E5%88%AB%EF%BC%8C%E4%BB%A5%E5%8F%8A%E5%9C%A8%20Django%20%E4%B8%AD%E7%9A%84%E5%9D%91.md)
+
 2020-07-18 [使用 Docker 部署 Django + MySQL 8 开发环境](<https://github.com/yongxinz/tech-blog/blob/master/docker/使用 Docker 部署 Django %2B MySQL 8 开发环境.md>)
 
 2020-07-15 [因为 Django ORM update，我今天差点「从删库到跑路」](<https://github.com/yongxinz/tech-blog/blob/master/django/因为 Django ORM update，我今天差点「从删库到跑路」.md>)

@@ -108,6 +108,8 @@
 
 ### RabbitMQ
 
+2020-10-13 [使用 docker-compose 部署机台 RabbitMQ 集群](<https://github.com/yongxinz/tech-blog/blob/master/rabbitmq/%E4%BD%BF%E7%94%A8%20docker-compose%20%E9%83%A8%E7%BD%B2%20RabbitMQ%20%E9%9B%86%E7%BE%A4.md>)
+
 2020-04-13 [RabbitMQ 的监控](<https://github.com/yongxinz/tech-blog/blob/master/rabbitmq/RabbitMQ%20%E7%9A%84%E7%9B%91%E6%8E%A7.md>)
 
 2020-04-07 [RabbitMQ 的六种工作模式，看这一篇就够了（附 Python 代码）](<https://github.com/yongxinz/tech-blog/blob/master/rabbitmq/RabbitMQ%20%E7%9A%84%E5%85%AD%E7%A7%8D%E5%B7%A5%E4%BD%9C%E6%A8%A1%E5%BC%8F%EF%BC%8C%E7%9C%8B%E8%BF%99%E4%B8%80%E7%AF%87%E5%B0%B1%E5%A4%9F%E4%BA%86%EF%BC%88%E9%99%84%20Python%20%E4%BB%A3%E7%A0%81%EF%BC%89.md>)

@@ -6,6 +6,8 @@
 
 ### Python
 
+2020-11-11 [Python 求两个列表的交集，并集和差集 |pythonic 小技巧](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E6%B1%82%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%8C%E5%B9%B6%E9%9B%86%E5%92%8C%E5%B7%AE%E9%9B%86%20%20pythonic%20%E5%B0%8F%E6%8A%80%E5%B7%A7.md>)
+
 2020-08-02 [Python 多进程之间共享变量](<https://github.com/yongxinz/tech-blog/blob/master/python/Python 多进程之间共享变量.md>)
 
 2020-02-17 [Python 开发编码规范](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E5%BC%80%E5%8F%91%E7%BC%96%E7%A0%81%E8%A7%84%E8%8C%83.md>)

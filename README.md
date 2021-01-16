@@ -82,6 +82,10 @@
 
 ### Docker
 
+2021-01-16 [使用 Docker 部署 canal，并将消息推送到 RabbitMQ](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20Docker%20%E9%83%A8%E7%BD%B2%20canal%EF%BC%8C%E5%B9%B6%E5%B0%86%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81%E5%88%B0%20RabbitMQ.md>)
+
+2021-01-16 [使用 Docker 部署 canal 服务，实现 MySQL 数据库 binlog 日志解析](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20Docker%20%E9%83%A8%E7%BD%B2%20canal%20%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%AE%9E%E7%8E%B0%20MySQL%20%E6%95%B0%E6%8D%AE%E5%BA%93%20binlog%20%E6%97%A5%E5%BF%97%E8%A7%A3%E6%9E%90.md>)
+
 2020-10-24 [使用 docker-compose 部署 Redis 服务](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20docker-compose%20%E9%83%A8%E7%BD%B2%20Redis%20%E6%9C%8D%E5%8A%A1.md>)
 
 2020-07-18 [使用 Docker 部署 Django + MySQL 8 开发环境](<https://github.com/yongxinz/tech-blog/blob/master/docker/使用 Docker 部署 Django %2B MySQL 8 开发环境.md>)
@@ -127,6 +131,8 @@
 2019-04-14 [使用 Redis 有序集合实现 IP 归属地查询](<https://github.com/yongxinz/tech-blog/blob/master/%E4%BD%BF%E7%94%A8%20Redis%20%E6%9C%89%E5%BA%8F%E9%9B%86%E5%90%88%E5%AE%9E%E7%8E%B0%20IP%20%E5%BD%92%E5%B1%9E%E5%9C%B0%E6%9F%A5%E8%AF%A2.md>)
 
 ### Elasticsearch
+
+2021-01-16 [避坑指南，Elasticsearch 分页查询的两个问题，你一定要知道](<https://github.com/yongxinz/tech-blog/blob/master/%E9%81%BF%E5%9D%91%E6%8C%87%E5%8D%97%EF%BC%8CElasticsearch%20%E5%88%86%E9%A1%B5%E6%9F%A5%E8%AF%A2%E7%9A%84%E4%B8%A4%E4%B8%AA%E9%97%AE%E9%A2%98%EF%BC%8C%E4%BD%A0%E4%B8%80%E5%AE%9A%E8%A6%81%E7%9F%A5%E9%81%93.md>)
 
 2020-08-22 [一个实用的开源项目，可以快速将 Elasticsearch 数据导出到 csv](<https://github.com/yongxinz/tech-blog/blob/master/一个实用的开源项目，可以快速将 Elasticsearch 数据导出到 csv.md>)
 

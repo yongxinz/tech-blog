@@ -82,6 +82,8 @@
 
 ### Docker
 
+2021-01-23 [使用 Docker 部署 RabbitMQ 没有日志？添加这两条配置，轻松搞定](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20Docker%20%E9%83%A8%E7%BD%B2%20RabbitMQ%20%E6%B2%A1%E6%9C%89%E6%97%A5%E5%BF%97%EF%BC%9F%E6%B7%BB%E5%8A%A0%E8%BF%99%E4%B8%A4%E6%9D%A1%E9%85%8D%E7%BD%AE%EF%BC%8C%E8%BD%BB%E6%9D%BE%E6%90%9E%E5%AE%9A.md>)
+
 2021-01-16 [使用 Docker 部署 canal，并将消息推送到 RabbitMQ](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20Docker%20%E9%83%A8%E7%BD%B2%20canal%EF%BC%8C%E5%B9%B6%E5%B0%86%E6%B6%88%E6%81%AF%E6%8E%A8%E9%80%81%E5%88%B0%20RabbitMQ.md>)
 
 2021-01-16 [使用 Docker 部署 canal 服务，实现 MySQL 数据库 binlog 日志解析](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20Docker%20%E9%83%A8%E7%BD%B2%20canal%20%E6%9C%8D%E5%8A%A1%EF%BC%8C%E5%AE%9E%E7%8E%B0%20MySQL%20%E6%95%B0%E6%8D%AE%E5%BA%93%20binlog%20%E6%97%A5%E5%BF%97%E8%A7%A3%E6%9E%90.md>)

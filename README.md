@@ -6,6 +6,10 @@
 
 ### Python
 
+2021-03-22 [Python 高手都这样使用字典，这些高效方法你知道吗？｜pythonic 小技巧](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E9%AB%98%E6%89%8B%E9%83%BD%E8%BF%99%E6%A0%B7%E4%BD%BF%E7%94%A8%E5%AD%97%E5%85%B8%EF%BC%8C%E8%BF%99%E4%BA%9B%E6%96%B9%E6%B3%95%E4%BD%A0%E9%83%BD%E7%9F%A5%E9%81%93%E5%90%97%EF%BC%9F%EF%BD%9Cpythonic%20%E5%B0%8F%E6%8A%80%E5%B7%A7.md>)
+
+2021-03-17 [像这样操作 Python 列表，能让你的代码更优雅 ｜ pythonic 小技巧](<https://github.com/yongxinz/tech-blog/blob/master/python/%E5%83%8F%E8%BF%99%E6%A0%B7%E6%93%8D%E4%BD%9C%20Python%20%E5%88%97%E8%A1%A8%EF%BC%8C%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9A%84%E4%BB%A3%E7%A0%81%E6%9B%B4%E4%BC%98%E9%9B%85%20%EF%BD%9C%20pythonic%20%E5%B0%8F%E6%8A%80%E5%B7%A7.md>)
+
 2020-11-11 [Python 求两个列表的交集，并集和差集 | pythonic 小技巧](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E6%B1%82%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E4%BA%A4%E9%9B%86%EF%BC%8C%E5%B9%B6%E9%9B%86%E5%92%8C%E5%B7%AE%E9%9B%86%20%20pythonic%20%E5%B0%8F%E6%8A%80%E5%B7%A7.md>)
 
 2020-08-02 [Python 多进程之间共享变量](<https://github.com/yongxinz/tech-blog/blob/master/python/Python 多进程之间共享变量.md>)

@@ -1,8 +1,12 @@
 这里是我写的一些技术文章，如果能对你有一些帮助，那就太好了。
 
-欢迎关注我的微信公众号 AlwaysBeta，更多精彩内容等你来。
+欢迎关注我的微信公众号 AlwaysBeta， 满满后端开发技术干货，更多精彩内容等你来。
 
 ![](https://ww1.sinaimg.cn/large/0061a0TTgy1gaqr087j9xj3076076wex.jpg)
+
+想学习 Go 的同学可以到这里看看：https://github.com/yongxinz/gopher
+
+Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源。
 
 ### Python
 
@@ -104,9 +108,19 @@
 
 ### Go
 
- 2019-01-11 [Go 包管理工具 govendor 使用指南](https://github.com/yongxinz/tech-blog/blob/master/Go%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20govendor%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+2021-08-01 [复合数据类型：字典 map 和 结构体 struct](<https://github.com/yongxinz/gopher/blob/main/sc/04-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E5%AD%97%E5%85%B8%20map%20%E5%92%8C%20%E7%BB%93%E6%9E%84%E4%BD%93%20struct.md>)
 
- 2019-01-03 [Linux 下 Go 环境搭建以及 Gin 安装][23]
+2021-08-01 [复合数据类型：数组和切片 slice](<https://github.com/yongxinz/gopher/blob/main/sc/03-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%87%E7%89%87%20slice.md>)
+
+2021-08-01 [基础数据类型：整数、浮点数、复数、布尔值和字符串](<https://github.com/yongxinz/gopher/blob/main/sc/02-%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E6%95%B4%E6%95%B0%E3%80%81%E6%B5%AE%E7%82%B9%E6%95%B0%E3%80%81%E5%A4%8D%E6%95%B0%E3%80%81%E5%B8%83%E5%B0%94%E5%80%BC%E5%92%8C%E5%AD%97%E7%AC%A6%E4%B8%B2.md>)
+
+2021-08-01 [变量和常量的声明与赋值](<https://github.com/yongxinz/gopher/blob/main/sc/01-%E5%8F%98%E9%87%8F%E5%92%8C%E5%B8%B8%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E4%B8%8E%E8%B5%8B%E5%80%BC.md>)
+
+2021-08-01 [开发环境搭建以及开发工具 VS Code 配置](<https://github.com/yongxinz/gopher/blob/main/sc/00-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20VS%20Code%20%E9%85%8D%E7%BD%AE.md>)
+
+2019-01-11 [Go 包管理工具 govendor 使用指南](https://github.com/yongxinz/tech-blog/blob/master/Go%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20govendor%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
+
+2019-01-03 [Linux 下 Go 环境搭建以及 Gin 安装][23]
 
 ### MySQL
 

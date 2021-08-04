@@ -112,6 +112,8 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### Go
 
+2021-08-04 [流程控制，一网打尽](<https://github.com/yongxinz/gopher/blob/main/sc/05-%E6%B5%81%E7%A8%8B%E6%8E%A7%E5%88%B6%EF%BC%8C%E4%B8%80%E7%BD%91%E6%89%93%E5%B0%BD.md>)
+
 2021-08-01 [复合数据类型：字典 map 和 结构体 struct](<https://github.com/yongxinz/gopher/blob/main/sc/04-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E5%AD%97%E5%85%B8%20map%20%E5%92%8C%20%E7%BB%93%E6%9E%84%E4%BD%93%20struct.md>)
 
 2021-08-01 [复合数据类型：数组和切片 slice](<https://github.com/yongxinz/gopher/blob/main/sc/03-%E5%A4%8D%E5%90%88%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%EF%BC%9A%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%87%E7%89%87%20slice.md>)

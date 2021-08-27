@@ -136,11 +136,11 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### MySQL
 
-2019-08-09 [链接 | 一次难得的分库分表实践](https://crossoverjie.top/2019/07/24/framework-design/sharding-db-03/)
+2019-08-09 [一次难得的分库分表实践](https://crossoverjie.top/2019/07/24/framework-design/sharding-db-03/)
 
-2019-08-09 [链接 | 分表后需要注意的二三事](https://crossoverjie.top/2019/06/13/framework-design/sharding-db-02/)
+2019-08-09 [分表后需要注意的二三事](https://crossoverjie.top/2019/06/13/framework-design/sharding-db-02/)
 
-2019-08-09 [链接 | 一次分表踩坑实践的探讨](https://crossoverjie.top/2019/04/16/framework-design/sharding-db/)
+2019-08-09 [一次分表踩坑实践的探讨](https://crossoverjie.top/2019/04/16/framework-design/sharding-db/)
 
 ### RabbitMQ
 
@@ -166,7 +166,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 2020-04-29 [Filebeat + Kafka + Elasticsearch + Kibana 实现日志收集与管理](<https://github.com/yongxinz/tech-blog/blob/master/Filebeat%20%2B%20Kafka%20%2B%20Elasticsearch%20%2B%20Kibana%20%E5%AE%9E%E7%8E%B0%E6%97%A5%E5%BF%97%E6%94%B6%E9%9B%86%E4%B8%8E%E7%AE%A1%E7%90%86.md>)
 
-2019-08-01 [链接 | 看完这篇还不会 Elasticsearch，我跪搓衣板](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650238166&idx=1&sn=f93737fbf547b4cbf5249ad6109d3496&chksm=8f5a068ab82d8f9ce9062aa43568c14cf2e167b04827cbfdfe3633862c0fc039a59d78911202&scene=0&xtrack=1#rd)
+2019-08-01 [看完这篇还不会 Elasticsearch，我跪搓衣板](https://mp.weixin.qq.com/s?__biz=MzIxMTE0ODU5NQ==&mid=2650238166&idx=1&sn=f93737fbf547b4cbf5249ad6109d3496&chksm=8f5a068ab82d8f9ce9062aa43568c14cf2e167b04827cbfdfe3633862c0fc039a59d78911202&scene=0&xtrack=1#rd)
 
 ### Kafka
 
@@ -190,9 +190,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### 架构
 
-2019-08-16 [链接 | 换个视角看中台的对与错](https://mp.weixin.qq.com/s/HSFltXtFbmg1vKANqdaD-A)
+2019-08-16 [换个视角看中台的对与错](https://mp.weixin.qq.com/s/HSFltXtFbmg1vKANqdaD-A)
 
-2019-08-07 [链接 | 我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
+2019-08-07 [我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
 
 ### 网络
 

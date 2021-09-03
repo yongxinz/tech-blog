@@ -8,6 +8,8 @@
 
 Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战开发，面试刷题，必读书单等一系列资源。
 
+## 技术文章
+
 ### Python
 
 2021-03-22 [Python 高手都这样使用字典，这些高效方法你知道吗？｜pythonic 小技巧](<https://github.com/yongxinz/tech-blog/blob/master/python/Python%20%E9%AB%98%E6%89%8B%E9%83%BD%E8%BF%99%E6%A0%B7%E4%BD%BF%E7%94%A8%E5%AD%97%E5%85%B8%EF%BC%8C%E8%BF%99%E4%BA%9B%E6%96%B9%E6%B3%95%E4%BD%A0%E9%83%BD%E7%9F%A5%E9%81%93%E5%90%97%EF%BC%9F%EF%BD%9Cpythonic%20%E5%B0%8F%E6%8A%80%E5%B7%A7.md>)
@@ -205,6 +207,10 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 ### 面试
 
 2019-08-16 [后端面试题汇总](https://github.com/yongxinz/back-end-interview)
+
+## 学习资料
+
+1. [代码重构和设计模式](https://refactoringguru.cn/)
 
 [1]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20enum.md
 [2]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20collections.md

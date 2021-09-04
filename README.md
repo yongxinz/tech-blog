@@ -27,7 +27,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [Flask-SocketIO 简单使用指南](https://github.com/yongxinz/tech-blog/blob/master/Flask-SocketIO%20%E7%AE%80%E5%8D%95%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 - [Python 函数式编程](https://github.com/yongxinz/tech-blog/blob/master/Python%20%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B.md)
 
-2019-01-03 一些 Python 模块的整理（不断更新中...），如下：
+一些 Python 模块的整理（不断更新中...），如下：
 
 - 文本
 
@@ -100,8 +100,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [Go 专栏｜变量和常量的声明与赋值](<https://github.com/yongxinz/gopher/blob/main/sc/01-%E5%8F%98%E9%87%8F%E5%92%8C%E5%B8%B8%E9%87%8F%E7%9A%84%E5%A3%B0%E6%98%8E%E4%B8%8E%E8%B5%8B%E5%80%BC.md>)
 - [Go 专栏｜开发环境搭建以及开发工具 VS Code 配置](<https://github.com/yongxinz/gopher/blob/main/sc/00-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20VS%20Code%20%E9%85%8D%E7%BD%AE.md>)
 - [Go 包管理工具 govendor 使用指南](https://github.com/yongxinz/tech-blog/blob/master/Go%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20govendor%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
-
-2019-01-03 [Linux 下 Go 环境搭建以及 Gin 安装][23]
+- [Linux 下 Go 环境搭建以及 Gin 安装][23]
 
 ### MySQL
 

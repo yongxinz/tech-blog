@@ -89,6 +89,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### Go
 
+- [开始读 Go 源码了](https://mp.weixin.qq.com/s/iPM-mPOepRuDqkBtcnG1ww)
 - [开源项目｜Go 开发的一款分布式唯一 ID 生成系统](https://mp.weixin.qq.com/s/tCGYTlB4nJH1ClViFQJ6Cw)
 - [听说，99% 的 Go 程序员都被 defer 坑过](https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ)
 - [测试小姐姐问我 gRPC 怎么用，我直接把这篇文章甩给了她](https://mp.weixin.qq.com/s/qdI2JqpMq6t2KN1byHaNCQ)
@@ -170,6 +171,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ## 实用工具
 
+- [一劳永逸，使用 PicGo + GitHub 搭建个人图床工具](https://mp.weixin.qq.com/s/AMpRm2s_wyLZ48fkRhkqgQ)
 - [程序员在线工具箱](https://tool.lu/)
 - [markdown 在线排版](http://md.aclickall.com/)
 - [Pixabay 免费正版高清图片素材库](https://pixabay.com/)

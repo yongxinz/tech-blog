@@ -89,6 +89,8 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### Go
 
+- [为什么要避免在 Go 中使用 ioutil.ReadAll？](https://mp.weixin.qq.com/s/e2A3ME4vhOK2S3hLEJtPsw)
+- [如何在 Go 中将 []byte 转换为 io.Reader？](https://mp.weixin.qq.com/s/nFkob92GOs6Gp75pxA5wCQ)
 - [开始读 Go 源码了](https://mp.weixin.qq.com/s/iPM-mPOepRuDqkBtcnG1ww)
 - [开源项目｜Go 开发的一款分布式唯一 ID 生成系统](https://mp.weixin.qq.com/s/tCGYTlB4nJH1ClViFQJ6Cw)
 - [听说，99% 的 Go 程序员都被 defer 坑过](https://mp.weixin.qq.com/s/1T6Z74Wri27Ap8skeJiyWQ)

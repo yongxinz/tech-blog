@@ -170,8 +170,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 - [后端面试题汇总](https://github.com/yongxinz/back-end-interview)
 
-## 学习资料
+## 设计模式
 
+- [本着什么原则，才能写出优秀的代码？](https://mp.weixin.qq.com/s/xWZmP4qBI8cm68UZH6AXOg)
 - [代码重构和设计模式](https://refactoringguru.cn/)
 
 ## 实用工具

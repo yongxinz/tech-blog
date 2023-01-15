@@ -161,6 +161,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### 架构
 
+- [工作流引擎架构设计](https://mp.weixin.qq.com/s/z2lbTDl5G0fcwlGB7jCMAg)
 - [换个视角看中台的对与错](https://mp.weixin.qq.com/s/HSFltXtFbmg1vKANqdaD-A)
 - [我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
 

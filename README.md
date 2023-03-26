@@ -120,6 +120,10 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [Go 包管理工具 govendor 使用指南](https://github.com/yongxinz/tech-blog/blob/master/Go%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20govendor%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 - [Linux 下 Go 环境搭建以及 Gin 安装][23]
 
+#### Go 面试题
+
+- [Go 语言 new 和 make 关键字的区别](https://mp.weixin.qq.com/s/NBDkI3roHgNgW1iW4e_6cA)
+
 ### MySQL
 
 - [一次难得的分库分表实践](https://crossoverjie.top/2019/07/24/framework-design/sharding-db-03/)

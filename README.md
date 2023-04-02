@@ -92,7 +92,9 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### Go
 
-- [Go 学习路线（2022）](https://mp.weixin.qq.com/s/Dwf98JFUnRij0Ha7o3ZSHQ)
+- [**Go 学习路线**](https://mp.weixin.qq.com/s/Dwf98JFUnRij0Ha7o3ZSHQ)
+- [为什么 Go 语言 struct 要使用 tags](https://mp.weixin.qq.com/s/L7-TJ-CzYfuVrIBWP7Ebaw)
+- [为什么 Go 不支持 []T 转换为 []interface](https://mp.weixin.qq.com/s/cwDEgnicK4jkuNpzulU2bw)
 - [读 Go 源码，可以试试这个工具](https://mp.weixin.qq.com/s/E2TL_kcbVcRJ0CnxwbXWLw)
 - [Go Error 嵌套到底是怎么实现的？](https://mp.weixin.qq.com/s/nWb-0RTDG1Pg5ZmJZfbEPA)
 - [为什么要避免在 Go 中使用 ioutil.ReadAll？](https://mp.weixin.qq.com/s/e2A3ME4vhOK2S3hLEJtPsw)
@@ -117,6 +119,10 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [Go 专栏｜开发环境搭建以及开发工具 VS Code 配置](<https://github.com/yongxinz/gopher/blob/main/sc/00-%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E4%BB%A5%E5%8F%8A%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7%20VS%20Code%20%E9%85%8D%E7%BD%AE.md>)
 - [Go 包管理工具 govendor 使用指南](https://github.com/yongxinz/tech-blog/blob/master/Go%20%E5%8C%85%E7%AE%A1%E7%90%86%E5%B7%A5%E5%85%B7%20govendor%20%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md)
 - [Linux 下 Go 环境搭建以及 Gin 安装][23]
+
+#### Go 面试题
+
+- [Go 语言 new 和 make 关键字的区别](https://mp.weixin.qq.com/s/NBDkI3roHgNgW1iW4e_6cA)
 
 ### MySQL
 
@@ -164,6 +170,10 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 - [工作流引擎架构设计](https://mp.weixin.qq.com/s/z2lbTDl5G0fcwlGB7jCMAg)
 - [换个视角看中台的对与错](https://mp.weixin.qq.com/s/HSFltXtFbmg1vKANqdaD-A)
 - [我看中台](https://mp.weixin.qq.com/s/fQ98fe3XH6imxzNhwiNaNA)
+
+### 微服务
+
+- [从 0 开始学微服务](https://mp.weixin.qq.com/s/LYYoO2VgpwhpGMB6FO9_jg)
 
 ### 网络
 

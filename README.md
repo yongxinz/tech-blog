@@ -190,6 +190,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 ## 其他
 
 - [Git 分支管理策略](https://mp.weixin.qq.com/s/hRd1UNMRutmA6MGmswweBw)
+- [Git Commit Message 应该怎么写？](https://mp.weixin.qq.com/s/EvN_lUyiQnlHR9kJ5SiosA)
 
 [1]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20enum.md
 [2]:	https://github.com/yongxinz/tech-blog/blob/master/python-module/%E6%AF%8F%E5%91%A8%E4%B8%80%E4%B8%AA%20Python%20%E6%A8%A1%E5%9D%97%20%20collections.md

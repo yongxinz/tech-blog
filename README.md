@@ -93,6 +93,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 ### Go
 
 - [**Go 学习路线**](https://mp.weixin.qq.com/s/Dwf98JFUnRij0Ha7o3ZSHQ)
+- [使用 Go 语言实现二叉搜索树](https://mp.weixin.qq.com/s/2wYRmG_AiiHYjLDEXg94Ag)
 - [为什么 Go 语言 struct 要使用 tags](https://mp.weixin.qq.com/s/L7-TJ-CzYfuVrIBWP7Ebaw)
 - [为什么 Go 不支持 []T 转换为 []interface](https://mp.weixin.qq.com/s/cwDEgnicK4jkuNpzulU2bw)
 - [读 Go 源码，可以试试这个工具](https://mp.weixin.qq.com/s/E2TL_kcbVcRJ0CnxwbXWLw)
@@ -147,6 +148,7 @@ Go 学习路线图，包括基础专栏，进阶专栏，源码阅读，实战�
 
 ### Redis
 
+- [使用 RediSearch 在 Redis 中进行全文检索](https://mp.weixin.qq.com/s/X1qKL0jMaklGw6GLcrkp2g)
 - [使用 docker-compose 部署 Redis 服务](<https://github.com/yongxinz/tech-blog/blob/master/docker/%E4%BD%BF%E7%94%A8%20docker-compose%20%E9%83%A8%E7%BD%B2%20Redis%20%E6%9C%8D%E5%8A%A1.md>)
 - [使用 Redis 有序集合实现 IP 归属地查询](<https://github.com/yongxinz/tech-blog/blob/master/%E4%BD%BF%E7%94%A8%20Redis%20%E6%9C%89%E5%BA%8F%E9%9B%86%E5%90%88%E5%AE%9E%E7%8E%B0%20IP%20%E5%BD%92%E5%B1%9E%E5%9C%B0%E6%9F%A5%E8%AF%A2.md>)
 
